@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Palmeiras campeão mundial
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto trata-se da geração de uma imagem hiperrealista, mas que vive no imaginário. Aproveitando o projeto da DIO e o clima do Super Mundial de futebol, claro que gerei uma imagem do Palmeiras campeão do torneio, contudo, esperando do fundo do coração, que não venha tornar-se realidade, pois devemos manter viva a música ícone entre os rivais de São Paulo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT e SORA.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o Chat GPT para geração do prompt, apenas solicitando que gerasse um prompt para ser usado no SORA:
+"Gere um prompt para ser usado no SORA com o seguinte tema:
+
+Uma imagem hiperrealista do time do Palmeiras levantando a taça do Super Mundial 2025, atentando-se ao emblema do time, a taça do torneio e o uniforme atual, que estão todos anexados com base."
+
+No SORA utilizei o prompt e anexei como base o uniforme e emblema do time e a taça do torneio, porém as imagens geradas ainda não foram capazes de gerar perfeitamente o emblema.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://sora.chatgpt.com/g/gen_01jy7gpvqrf908c1y48ppn9smg
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A geração de imagens tem sido uma ferramenta incrível para geração de estampas da minha loja de camisetas, quando comecei nesse ramo gerava com Leonardo.ia, entretando descobri recentemente o SORA e tem desempenhado muito melhor nesse trabalho.
+Pretendo aprender muito mais a utilizar essas ferramentes e até mesmo a automatizar esse trabalho.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
